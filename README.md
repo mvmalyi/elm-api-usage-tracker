@@ -2,6 +2,10 @@
 
 A minimal, native macOS menu bar utility for monitoring your [ELM](https://elm.edina.ac.uk) API spend (`GET https://elm.edina.ac.uk/api/v1/costs`).
 
+<p align="center">
+  <img src="assets/screenshot.jpg" alt="ELM API Tracker popover screenshot" width="460" />
+</p>
+
 ## Features
 
 - **Monochrome circular progress ring** in the macOS menu bar (`isTemplate = true`, `LSUIElement = true`) with a solid used sector and dimmer remaining sector that adapts natively to light and dark menu bars.
