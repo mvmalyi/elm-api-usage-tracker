@@ -45,6 +45,10 @@ To run the unit tests:
 swift test
 ```
 
+## Related
+
+- **[codex-api-cost-tracker](https://github.com/mvmalyi/codex-api-cost-tracker)** — A CLI tool that parses Codex log files for a detailed breakdown of token usage (input, cached, cache writes, output/reasoning) and per-model spend estimates, useful if you're using Codex and want to see where expenditure can be optimised.
+
 ## Disclosure
 
 Gemini 4 Neon was used in Antigravity to assist with the development of this app. Everything has been tested and security audited. In the case any bugs are discovered, please report them using [GitHub Issues](https://github.com/mvmalyi/elm-api-usage-tracker/issues).
